@@ -50,11 +50,11 @@ SpaceX revolutionized the space industry with reusable rockets, significantly lo
 ## 📥 Data Collection
 
 ✔ API Extraction: Data collected via GET request to the SpaceX API.
+
 ✔ Web Scraping: Falcon 9 launch records retrieved from Wikipedia using BeautifulSoup.
+
 ✔ Data Wrangling: Cleaned and formatted dataset using Pandas, handling missing values.
 
-🔗 SpaceX API Data Collection Notebook
-🔗 Web Scraping Notebook
 
 ## 📈 Exploratory Data Analysis (EDA)
 
@@ -65,17 +65,12 @@ SpaceX revolutionized the space industry with reusable rockets, significantly lo
 ✔ Folium Map Analysis: Interactive geospatial visualization of launch success rates.
 
 
-🔗 SQL-Based EDA
-🔗 Data Visualization Notebook
-🔗 Folium Map Analysis
-
 ## 📊 Interactive Dashboard
 
 ✔ Built with Plotly Dash to visualize launch site performance.
 
 ✔ Includes scatter plots, pie charts showing success rates by payload and site.
 
-🔗 Dashboard Code
 
 ## 🤖 Machine Learning Model
 
@@ -87,7 +82,6 @@ SpaceX revolutionized the space industry with reusable rockets, significantly lo
 
 ✔ Best Model: Decision Tree achieved the highest classification accuracy.
 
-🔗 Machine Learning Notebook
 
 ## 🔍 Key Insights
 
