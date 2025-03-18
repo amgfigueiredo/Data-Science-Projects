@@ -1,4 +1,4 @@
-# 🚀 SpaceX Falcon 9 Landing Prediction
+# SpaceX Falcon 9 Landing Prediction
 
 ## 📌 Project Overview
 
