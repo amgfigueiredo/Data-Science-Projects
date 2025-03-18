@@ -1,4 +1,4 @@
-# 🚗 Auto Sales During Recessions 📉
+# Auto Sales During Recessions 📉
 ## Analyzing Historical Automobile Sales Trends in Recession Periods
 
 
